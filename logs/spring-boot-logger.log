@@ -1,0 +1,48 @@
+2022-03-25 16:17:55,555 INFO org.springframework.boot.StartupInfoLogger [main] Starting IntroToSpringBootApplicationTests using Java 15 on DESKTOP-7KGS943 with PID 16288 (started by USR in C:\Users\USR\Documents\grega\software\dev\kotlin\springLessons\tutorial-series\intro-to-spring-boot)
+2022-03-25 16:17:55,621 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-25 16:17:55,624 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-25 16:18:03,575 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-03-25 16:18:03,633 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-25 16:18:03,635 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-03-25 16:18:03,636 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-25 16:18:04,049 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-03-25 16:18:04,050 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 8247 ms
+2022-03-25 16:18:11,974 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 13 endpoint(s) beneath base path '/actuator'
+2022-03-25 16:18:12,257 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-03-25 16:18:12,382 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-25 16:18:12,455 INFO org.springframework.boot.StartupInfoLogger [main] Started IntroToSpringBootApplicationTests in 18.948 seconds (JVM running for 24.616)
+2022-03-25 16:18:15,298 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-25 16:18:15,299 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-03-25 16:18:15,303 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 3 ms
+2022-03-25 16:30:26,725 INFO org.springframework.boot.StartupInfoLogger [main] Starting IntroToSpringBootApplicationTests using Java 15 on DESKTOP-7KGS943 with PID 15392 (started by USR in C:\Users\USR\Documents\grega\software\dev\kotlin\springLessons\tutorial-series\intro-to-spring-boot)
+2022-03-25 16:30:26,729 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-25 16:30:26,730 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-25 16:30:32,119 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-03-25 16:30:32,151 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-25 16:30:32,155 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-03-25 16:30:32,158 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-25 16:30:32,775 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-03-25 16:30:32,777 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 5987 ms
+2022-03-25 16:30:40,304 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 13 endpoint(s) beneath base path '/actuator'
+2022-03-25 16:30:40,570 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-03-25 16:30:40,636 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-25 16:30:40,673 INFO org.springframework.boot.StartupInfoLogger [main] Started IntroToSpringBootApplicationTests in 15.899 seconds (JVM running for 20.226)
+2022-03-25 16:30:42,152 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-25 16:30:42,154 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-03-25 16:30:42,159 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 2 ms
+2022-03-25 16:31:11,640 INFO org.springframework.boot.StartupInfoLogger [main] Starting IntroToSpringBootApplicationTests using Java 15 on DESKTOP-7KGS943 with PID 6928 (started by USR in C:\Users\USR\Documents\grega\software\dev\kotlin\springLessons\tutorial-series\intro-to-spring-boot)
+2022-03-25 16:31:11,644 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-25 16:31:11,646 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-25 16:31:16,185 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-03-25 16:31:16,209 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-03-25 16:31:16,211 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-03-25 16:31:16,212 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-25 16:31:16,665 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-03-25 16:31:16,667 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 4955 ms
+2022-03-25 16:31:23,924 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 13 endpoint(s) beneath base path '/actuator'
+2022-03-25 16:31:24,454 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-03-25 16:31:24,521 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-25 16:31:24,587 INFO org.springframework.boot.StartupInfoLogger [main] Started IntroToSpringBootApplicationTests in 14.831 seconds (JVM running for 18.37)
+2022-03-25 16:31:26,696 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-25 16:31:26,697 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-03-25 16:31:26,701 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 2 ms
